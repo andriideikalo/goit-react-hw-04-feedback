@@ -36,7 +36,7 @@ $ lodash core -o ./dist/lodash.core.js       https://github.com/lodash/lodash   
 <!--                https://github.com/TanStack/query    хуки для http запитів -->
 
 <!--npm i react-use                     https://github.com/streamich/react-use       кастомні хуки -->
-<!-- ______________ -->
+<!--npm install @streamich/react-use    https://github.com/streamich/react-use/pkgs/npm/react-use                           -->
 <!-- ______________ -->
 <!-- ______________ -->
 <!-- ______________ -->
